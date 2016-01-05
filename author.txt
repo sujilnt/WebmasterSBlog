@@ -1,0 +1,10 @@
+.tbs-author-box{background:#F7F7F7;margin:20px 0 40px 0;padding:10px;border:1px solid #E6E6E6;overflow:auto}.tbs-author-box p{margin:0;padding:0}.tbs-author-box img{background:#FFFFFF;float:left;margin:0 10px 0 0;padding:4px;border:1px solid #E6E6E6;}
+
+<b:if cond=’data:blog.pageType == &quot;item&quot;’>
+<b:if cond=’data:post.author == &quot;Iftekhar Ahmed&quot;’>
+<div class=’tbs-author-box’>
+<p>
+<img alt=” class=’avatar avatar-60 photo’ height=’100' src=’https://lh6.googleusercontent.com/-hk6kY4ALS9U/UpW1rENwFhI/AAAAAAAAANM/FRF1nCfJgmc/w509-h512/988354_213183655529152_1643599311_n.jpg’ width=’110’/><b>About Author</b><br/>
+My Sujil Anto , I m a Freelance web developer from Bangalore,who is passionate in learning web technologies.My hobby is writing about web technology  or  creating small portfolios.<br/></p>
+</div></b:if>
+</b:if>
